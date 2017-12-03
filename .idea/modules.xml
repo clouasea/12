@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\wyh\PycharmProjects\cmdb\.idea\cmdb.iml" filepath="C:\Users\wyh\PycharmProjects\cmdb\.idea\cmdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
+      <module fileurl="file://C:\Users\wyh\PycharmProjects\website\.idea\website.iml" filepath="C:\Users\wyh\PycharmProjects\website\.idea\website.iml" />
+    </modules>
+  </component>
+</project>
